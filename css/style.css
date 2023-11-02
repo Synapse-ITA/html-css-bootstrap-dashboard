@@ -8,3 +8,33 @@
     height: 60px;
     padding-left: 15px;
 }
+
+
+/*SEZIONE BADGE*/
+
+.badge-available {
+    padding: 3px 6px 3px;
+    font-size: 12.025px;
+    font-weight: bold;
+    background-color: rgb(31, 110, 33);
+    border-radius: 7px;
+    color: white;
+}
+
+.badge-unavailable {
+    padding: 3px 6px 3px;
+    font-size: 12.025px;
+    font-weight: bold;
+    background-color: rgb(238, 29, 29);
+    border-radius: 7px;
+    color: white;
+}
+
+.badge-pending {
+    padding: 3px 6px 3px;
+    font-size: 12.025px;
+    font-weight: bold;
+    background-color: rgb(228, 241, 39);
+    border-radius: 7px;
+    color: white;
+}

@@ -38,3 +38,14 @@
     border-radius: 7px;
     color: white;
 }
+
+footer {
+    position:absolute;
+    bottom:0;
+    min-width: 100%;
+    }
+
+    #logosyn {
+        width: 60px;
+        height: 60px;
+    }
